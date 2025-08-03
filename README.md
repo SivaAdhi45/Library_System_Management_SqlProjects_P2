@@ -25,7 +25,7 @@ These tables are linked using **foreign keys** to maintain referential integrity
 
 ## Database Setup
 
-
+![ERD] (
 
 ## 🎯 Project Tasks Overview
 
